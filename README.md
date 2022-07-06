@@ -8,9 +8,17 @@ Hi, I'm Vicky Herdiansyah Adri!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Information+Technology+Student;Front+End+Dev;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
  
- 
- <a href="https://vickyadrii.carrd.co/"></a>
+### Here is my link profile 
+ <a href="https://vickyadrii.carrd.co/">Profile</a>
 
-Here are some ideas to get you started:
 
 - How to reach me: <a href="mailto:vickyadri103@gmail.com">📫</a>
+### Connect with me :
+<a href="https://www.linkedin.com/in/vickyadrii/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/>
+</a>
+<a href="https://instagram.com/vickyadrii" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/>
+</a>
