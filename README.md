@@ -4,13 +4,10 @@ Hi, I'm Vicky Herdiansyah Adri!
 </h1>
 <img src="https://komarev.com/ghpvc/?username=vickyadri29&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vickyadrii" />
 <br/>
+<a href="https://vickyadrii.carrd.co/">https://vickyadrii.carrd.co/</a>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Information+Technology+Student;Front+End+Dev;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
- 
-### Here is my link profile 
- <a href="https://vickyadrii.carrd.co/">[Profile](https://vickyadrii.carrd.co/)</a>
-
 
 - How to reach me: <a href="mailto:vickyadri103@gmail.com">📫</a>
 ### Connect with me :
