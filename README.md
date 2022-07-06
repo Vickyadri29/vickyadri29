@@ -1,5 +1,6 @@
 <h1 align="center">
-Hi, Vicky Herdiansyah Adri!
+Hi, I'm Vicky Herdiansyah Adri!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+%3A);Always+learning+new+things;Information+Technology+Students)](https://git.io/typing-svg)
  
  <img src="https://komarev.com/ghpvc/?username=vickyadri29&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />
