@@ -9,7 +9,7 @@ Hi, I'm Vicky Herdiansyah Adri!
 </p>
  
 ### Here is my link profile 
- <a href="https://vickyadrii.carrd.co/">Profile</a>
+ <a href="https://vickyadrii.carrd.co/">[Profile](https://vickyadrii.carrd.co/)</a>
 
 
 - How to reach me: <a href="mailto:vickyadri103@gmail.com">📫</a>
