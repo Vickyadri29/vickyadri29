@@ -8,9 +8,10 @@ Hi, I'm Vicky Herdiansyah Adri!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Information+Technology+Student;Front+End+Dev+Enthusiastic&center=true&width=380&height=45"></a>
 </p>
 
-- Currently focus to learn about Front End
+- Currently focus to learn about Front End Dev.
 - How to reach me: <a href="mailto:vickyadri103@gmail.com">📫</a>
 
+Have a nice day :)
 <hr>
 
 ### Connect with me :
