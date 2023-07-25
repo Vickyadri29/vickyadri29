@@ -5,11 +5,11 @@ Hi, I'm Vicky Herdiansyah Adri!
 <img src="https://komarev.com/ghpvc/?username=vickyadri29&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vickyadrii" />
 <br/>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Information+Technology+Student;Frontend+Enthusiast&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Frontend+Enthusiast&center=true&width=380&height=45"></a>
 </p>
 
 
-- Specializing in frontend developer and I really like it.
+- Specializing in frontend developer.
 - How to reach me: <a href="mailto:vickyadri103@gmail.com">📫</a>
 
 Have a nice day and happy coding :)
