@@ -12,7 +12,7 @@ Hi, I'm Vicky Herdiansyah Adri!
 🧑🏻‍💻 Specializing in frontend developer.</br>
 📫 How to reach me: <a href="mailto:vickyadri103@gmail.com">Click here</a></br>
 
-### Have a nice day and happy coding ⚡️
+### Have a good day and happy coding ⚡️
 <hr>
 
 
