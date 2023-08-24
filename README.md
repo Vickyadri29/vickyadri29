@@ -9,14 +9,14 @@ Hi, I'm Vicky Herdiansyah Adri!
 </p>
 
 
-🧑🏻‍💻 Specializing in frontend developer</br>
+🧑🏻‍💻 Specializing on frontend developer</br>
 📫 How to reach me: <a href="mailto:vickyadri103@gmail.com">Click here</a></br>
 
 ### Have a good day and happy coding ⚡️
 <hr>
 
 
-## 🌐 Connect with me:
+## 🌐 Connect with me via:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickyadrii) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vickyadri29) 
 
 ## 💻 Tech Stack:
