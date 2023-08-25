@@ -16,7 +16,7 @@ Hi, I'm Vicky Herdiansyah Adri!
 <hr>
 
 
-## 🌐 Connect with me via:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickyadrii) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vickyadri29) 
 
 ## 💻 Tech Stack:
