@@ -1,6 +1,5 @@
 <h1 align="center">
-Hi, I'm Vicky Herdiansyah Adri!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+Hi, I'm Vicky Herdiansyah Adri ✋
 </h1>
 <img src="https://komarev.com/ghpvc/?username=vickyadri29&label=Profile%20Views&color=0e75b6&style=for-the-badge" align='right' alt="vickyadrii" />
 <!-- <br/><br/>
