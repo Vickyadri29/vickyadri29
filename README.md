@@ -8,7 +8,7 @@ Hi, I'm Vicky Herdiansyah Adri ✋
 </p> -->
 
 
-🧑🏻‍💻 Specializing on frontend developer</br>
+🧑🏻‍💻 Specializing in frontend developer</br>
 📫 How to reach me: <a href="mailto:vickyadri103@gmail.com">Click here</a></br>
 <hr>
 
