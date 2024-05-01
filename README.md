@@ -8,7 +8,7 @@ Hi, I'm Vicky Herdiansyah Adri ✋
 </p> -->
 
 
-🧑🏻‍💻 Specializing in frontend development. Currently learning Golang</br>
+🧑🏻‍💻 Specializing in frontend development</br>
 📫 How to reach me: <a href="mailto:vickyadri103@gmail.com">Click here</a></br>
 <hr>
 
